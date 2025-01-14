@@ -1,4 +1,7 @@
 # MiniCalculadora
+![Captura de pantalla 2025-01-14 a las 13 53 27](https://github.com/user-attachments/assets/0fb16cd1-ae0f-4f96-8dd1-38db9b2b11a6)
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.16.
 
@@ -25,3 +28,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
